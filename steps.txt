@@ -1,0 +1,5 @@
+create a folder:
+npm init -y  
+npm i expess
+echo >app.js
+mae chaanges in package.json file
